@@ -72,4 +72,8 @@ void loop() {
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+[Link to video of finale design of good kiddo](https://youtu.be/qqW4fb8mtjk)
+
+[Code for Part E](https://github.com/sgc87/IDD-Fa19-Lab4/blob/master/Lab4.ino)
  
